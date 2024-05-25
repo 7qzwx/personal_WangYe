@@ -1229,42 +1229,48 @@ input[type="text"],
     height: 8px;
     padding: 0
 }
-
+                    /* 下面是性格跟软件熟练度的css样式 ，修改width即可修改进度条长度*/
 .skills-second-style .skill-container.skill-1 .skill-percentage {
-    width: 95%
+    width: 73%
 }
 
 .skills-second-style .skill-container.skill-2 .skill-percentage {
-    width: 65%
-}
-
-.skills-second-style .skill-container.skill-3 .skill-percentage {
-    width: 80%
-}
-
-.skills-second-style .skill-container.skill-4 .skill-percentage {
-    width: 90%
-}
-
-.skills-second-style .skill-container.skill-5 .skill-percentage {
-    width: 95%
-}
-
-.skills-second-style .skill-container.skill-6 .skill-percentage {
     width: 85%
 }
 
+.skills-second-style .skill-container.skill-3 .skill-percentage {
+    width: 87%
+}
+
+.skills-second-style .skill-container.skill-4 .skill-percentage {
+    width: 98%
+}
+
+.skills-second-style .skill-container.skill-4-1 .skill-percentage {
+    width: 78%
+}
+
+.skills-second-style .skill-container.skill-5 .skill-percentage {
+    width: 89%
+}
+
+.skills-second-style .skill-container.skill-6 .skill-percentage {
+    width: 67%
+}
+
 .skills-second-style .skill-container.skill-7 .skill-percentage {
-    width: 100%
+    width: 91%
 }
 
 .skills-second-style .skill-container.skill-8 .skill-percentage {
-    width: 75%
+    width: 41%
 }
 
 .skills-second-style .skill-container.skill-9 .skill-percentage {
-    width: 90%
+    width: 72%
 }
+
+
 
 .pt-page .skills-second-style .skill-percentage,
 .pt-page .skills-second-style .skill-value {
